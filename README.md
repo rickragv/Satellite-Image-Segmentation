@@ -1,7 +1,12 @@
 # Satellite-Image-Segmentation
 Satellite-Image-Segmentation
 ![plot](./template/pred2.png)
-
+### Data exploration:
+na
+### Data preprocesssing:
+na
+### Training:
+unet
 ## Test Set Results:
 | Precision% | Recall%  | iou_score |f1-score|
 |------------|----------|---------  |--------|
