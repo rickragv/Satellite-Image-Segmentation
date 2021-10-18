@@ -1,5 +1,6 @@
 # Satellite-Image-Segmentation
 Satellite-Image-Segmentation
+![plot](./template/pred2.png)
 
 ## Test Set Results:
 | Precision% | Recall%  | iou_score |f1-score|
