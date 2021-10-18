@@ -7,3 +7,6 @@ Satellite-Image-Segmentation
 |------------|----------|---------  |--------|
 | 74.67      | 74.63    | 0.48      | 64.4   |
 
+
+# Sample Predictions
+![plot](./template/pred.png)
