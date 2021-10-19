@@ -11,13 +11,19 @@ The Data set contains 1500*1500 satellite images and there road masks. Upon anal
 - Data augmentation like shift , rotate, contrast & brightness.
 
 ### Training:
-For training we have used UNET architecture with efficientNet backbone and used transfered weights from imageNet(https://github.com/qubvel/segmentation_models).
+For training we have used UNET & LinkNet architecture with efficientNet backbone and used transfered weights from imageNet(https://github.com/qubvel/segmentation_models).
 below are some samples and performance metrics
 
 ## Performance Metrics:
+### UNET
 | Precision% | Recall%  | iou_score |f1-score|
 |------------|----------|---------  |--------|
 | 74.67      | 74.63    | 0.48      | 64.4   |
+### LinkNet
+| Precision% | Recall%  | iou_score |f1-score|
+|------------|----------|---------  |--------|
+| 71.67      | 74.93    | 0.45      | 61.4   |
+
 
 
 # Sample Predictions
