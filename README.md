@@ -18,11 +18,11 @@ below are some samples and performance metrics
 ### UNET
 | Precision% | Recall%  | iou_score |f1-score|
 |------------|----------|---------  |--------|
-| 74.67      | 74.63    | 0.48      | 64.4   |
+| 74.67      | 74.63    | 0.48      | 0.64   |
 ### LinkNet
 | Precision% | Recall%  | iou_score |f1-score|
 |------------|----------|---------  |--------|
-| 71.67      | 74.93    | 0.45      | 61.4   |
+| 71.67      | 74.93    | 0.45      | 0.61   |
 
 
 
